@@ -1,0 +1,20 @@
+# KRYPTONITE AI demo script
+
+0:00 — Hook
+Open with the one-sentence promise: KRYPTONITE AI is a multi-agent workflow built for Track 2, where one user request becomes a coordinated sequence of planning, building, reviewing, and delivering.
+
+0:30 — Problem
+Call out the pain: real work breaks when context gets fragmented across tools and handoffs. Teams waste time switching between chat, code, and deployment.
+
+1:00 — Live demo
+Show the homepage first so the audience sees the white, readable interface. Then run the workflow, enter the node-specific API key where needed, and let the live execution log show each step completing.
+
+2:10 — Why this matters
+Explain that the workflow is designed to be understandable and secure: each node asks for the right key at the right time, and the shared flow keeps agents coordinated.
+
+2:40 — Close
+End with the live URL and GitHub repo, then say that the product is already online, the pitch deck is included, and the submission is ready for review.
+
+Links
+- Live: http://localhost:3000
+- Repo: https://github.com/insanityatpeak/kryptonite-ai

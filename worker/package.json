@@ -1,0 +1,14 @@
+{
+  "name": "kryptonite-worker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "ts-node --transpile-only server.ts",
+    "start:prod": "node --require ts-node/register server.ts"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.0.0"
+  }
+}
